@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Build
+build/
+*.app
+
+# Iconset (可以从 icon.png 重新生成)
+AppIcon.iconset/
+
+# Swift
+*.swiftpm
+*.swift-version
+.build/
+
+# Xcode
+*.xcodeproj/
+*.xcworkspace/
+xcuserdata/
+DerivedData/
+
+# Temporary
+*.tmp
+*.log
