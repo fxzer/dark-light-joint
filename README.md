@@ -1,4 +1,10 @@
-# 📸 亮暗图拼接 - Swift 原生版
+<p align="center">
+  <img src="icon.png" width="128" height="128">
+</p>
+
+<p align="center">
+  <h1>📸 亮暗图拼接 - Swift 原生版</h1>
+</p>
   
 沿对角线拼接亮色/暗色两张截图的 macOS 原生应用。
 
