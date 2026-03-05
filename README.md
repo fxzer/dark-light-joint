@@ -25,9 +25,11 @@
 
 ### 方法一：下载 Release（推荐）
 
-1. 前往 [Releases](https://github.com/fxzer/dark-light-joint/releases) 页面
-2. 下载最新版本的 `DarkLightJoint.app`
-3. 双击打开应用（首次打开需要右键 → 打开）
+[![Download](https://img.shields.io/badge/下载-v1.0.0-blue)](https://github.com/fxzer/dark-light-joint/releases/download/v1.0.0/DarkLightJoint-macOS.zip)
+
+1. 下载 [DarkLightJoint-macOS.zip](https://github.com/fxzer/dark-light-joint/releases/download/v1.0.0/DarkLightJoint-macOS.zip)
+2. 解压并将 `DarkLightJoint.app` 拖到 `/Applications` 文件夹
+3. 首次运行需要授予屏幕录制权限
 
 ### 方法二：从源码构建
 
