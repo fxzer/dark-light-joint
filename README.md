@@ -130,6 +130,35 @@ dark-light-joint/
 
 ---
 
+## 🔄 相关项目
+
+### [browser-dark-light-screenshot](https://github.com/fxzer/browser-dark-light-screenshot) ⭐
+
+如果你使用 **Claude Code**，还有对应的自动化 skill！
+
+- 🚀 **全自动化**: 一句话命令自动打开网页、切换主题、截图、拼接
+- 🤖 **AI 驱动**: 无需手动操作，Claude 会自动完成所有步骤
+- 🎯 **完美集成**: 作为 Claude Code skill 使用，体验流畅
+
+**对比:**
+
+| 特性 | Swift 应用 | Claude Code Skill |
+|------|-----------|-------------------|
+| 操作方式 | 手动点击截图 | AI 自动化 |
+| 使用场景 | 本地任意窗口 | 网页截图 |
+| 学习成本 | 需要安装应用 | 需要配置 Claude Code |
+| 灵活性 | 可截取任何界面 | 专注于网页 |
+
+**使用示例:**
+```
+# 在 Claude Code 中
+帮我生成 https://vuejs.org 的亮暗对比图
+```
+
+✨ 两个项目互补，满足不同需求！
+
+---
+
 ## 🛠️ 开发环境要求
 
 - macOS 13.0+
